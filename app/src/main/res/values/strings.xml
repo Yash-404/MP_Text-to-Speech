@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MP_Text-to-Speech</string>
+    <string name="Speak">Speak</string>
+    <string name="Enter_text">Enter text</string>
+</resources>
